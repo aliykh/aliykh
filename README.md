@@ -7,7 +7,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/aliy-kh/)      [<img src="https://img.shields.io/badge/GMAIL-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:aliykhoshimov@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/aliy-kh/)      [<img src="https://img.shields.io/badge/GMAIL-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:aliykhoshimov@gmail.com)  [<img src="https://img.shields.io/badge/LEETCODE-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black" />] (https://leetcode.com/AIiy/)
   
 </p>
 
