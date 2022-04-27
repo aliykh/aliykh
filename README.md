@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aliy and I ❤ golang.
 
-- 💻 I’m currently working on Payment App (HamkorBank), peer-to-peer transfers, mobile operator services and many more. 
+- 💻 I’m currently working at iTechArt Group as a software engineer. 
 - 😄 I’m looking to collaborate on open-source projects in GO
 
 ## Connect with me:
