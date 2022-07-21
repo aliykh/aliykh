@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aliy and I ❤ golang.
 
-- 💻 I’m a freelance software engineer at Toptal <img src="toptal.svg" alt="J" width="30"/>
+- 💻 I’m a freelance software engineer at Toptal <img src="toptal.svg" alt="J" width="20"/>
 - 😄 I’m looking to collaborate on open-source projects in GO
 
 ## Connect with me:
