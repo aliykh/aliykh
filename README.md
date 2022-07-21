@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aliy and I ❤ golang.
 
-- 💻 I’m a freelance software engineer at Toptal <a href="https://iconscout.com/icons/toptal" target="_blank">Toptal Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">IconScout</a>. 
+- 💻 I’m a freelance software engineer at Toptal ![Toptal](toptal.svg)
 - 😄 I’m looking to collaborate on open-source projects in GO
 
 ## Connect with me:
